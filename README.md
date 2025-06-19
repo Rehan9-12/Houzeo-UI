@@ -16,7 +16,8 @@ A modern Vue.js + Vite real estate listing UI that mimics a Zillow-like interfac
 - **Smooth Border Hover Effects**: CSS transitions applied to all filter inputs and dropdowns.
 
 ### ✅ 3. Map Section
-- Displays a Live US map on the left.
+- Displays a Live US map on the left embedded from Google Maps.
+- Basic functionality to the map, such as zooming & exploring city.
 
 ### ✅ 4. Property Listings Section
 - **Image Slider**: Carousel with arrows and bullets on hover.
@@ -41,6 +42,13 @@ A modern Vue.js + Vite real estate listing UI that mimics a Zillow-like interfac
 ### ✅ 7. Performance Optimizations
 - Lazy loading of images for faster page load.
 - Optimized layout for performance across devices.
+
+### ✅ 8. Reusable Component
+- Reusable Card Component handles Dynamic Data.
+- API can be integrated to make webite more dynamic.
+
+  ### ✅ 9. Component Testing
+  - Components Manual Tested using DevTools
 
 ---
 
