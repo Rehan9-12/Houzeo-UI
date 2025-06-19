@@ -62,11 +62,12 @@ document.addEventListener("DOMContentLoaded", () => {
   align-items: center;
   justify-content: baseline;
   gap: 1rem;
+  position: sticky;
   padding: 1rem 2rem;
   background-color: white;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
-  position: sticky;
   top: 0;
+  z-index: 100;
 }
 
 .search-bar {

@@ -151,6 +151,7 @@ export default {
   color: black;
   width: 50%;
   height: auto;
+  z-index: 10;
 }
 
 .heading {
