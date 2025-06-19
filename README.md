@@ -47,8 +47,8 @@ A modern Vue.js + Vite real estate listing UI that mimics a Zillow-like interfac
 - Reusable Card Component handles Dynamic Data.
 - API can be integrated to make webite more dynamic.
 
-  ### ✅ 9. Component Testing
-  - Components Manual Tested using DevTools
+### ✅ 9. Component Testing
+- Components Manual Tested using DevTools
 
 ---
 
