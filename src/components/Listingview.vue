@@ -181,6 +181,7 @@ export default {
   font-weight: 500;
   color: #0d61a8;
   border: none;
+  background-color: transparent;
 }
 
 .sort:active {
