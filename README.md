@@ -7,7 +7,7 @@ A modern Vue.js + Vite real estate listing UI that mimics a Zillow-like interfac
 ## 📌 Project Requirements (Implemented)
 
 ### ✅ 1. Header
-- A sticky header with a centered logo and clean layout.
+- A header with a centered logo and clean layout.
 
 ### ✅ 2. Filter Bar
 - **Status Dropdown**: "For Sale" / "Sold".
