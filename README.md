@@ -16,7 +16,7 @@ A modern Vue.js + Vite real estate listing UI that mimics a Zillow-like interfac
 - **Smooth Border Hover Effects**: CSS transitions applied to all filter inputs and dropdowns.
 
 ### ✅ 3. Map Section
-- Displays a static US map on the left (interactive map functionality optional).
+- Displays a Live US map on the left.
 
 ### ✅ 4. Property Listings Section
 - **Image Slider**: Carousel with arrows and bullets on hover.
