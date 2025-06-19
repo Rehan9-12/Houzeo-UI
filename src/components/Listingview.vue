@@ -34,10 +34,46 @@ export default {
             '/assets/properties/house2.png',
             '/assets/properties/house3.png'
           ],
-          daysOn: '10 days on Houzeo',
+          daysOn: '06 days on Houzeo',
           tag: 'House For Sale',
           views: '2.5k',
           price: '$2,349,000',
+          beds: 4,
+          baths: 3,
+          sqft: 1229,
+          street: '2856 Meadow Park Ave,',
+          city: 'Henderson, NV 89052',
+          agency: 'Nashville (Real Tracs Mid) MLS-TN',
+          liked: false
+        },
+        {
+          images: [
+            '/assets/properties/house2.png',
+            '/assets/properties/house1.png',
+            '/assets/properties/house3.png'
+          ],
+          daysOn: '10 days on Houzeo',
+          tag: 'Condo For Sale',
+          views: '3.0k',
+          price: '$3,209,000',
+          beds: 9,
+          baths: 3,
+          sqft: 1229,
+          street: '2856 Meadow Park Ave,',
+          city: 'Henderson, NV 89052',
+          agency: 'Nashville (Real Tracs Mid) MLS-TN',
+          liked: false
+        },
+        {
+          images: [
+            '/assets/properties/house3.png',
+            '/assets/properties/house2.png',
+            '/assets/properties/house1.png'
+          ],
+          daysOn: '10 days on Houzeo',
+          tag: 'House For Sale',
+          views: '2.5k',
+          price: '$4,349,000',
           beds: 4,
           baths: 3,
           sqft: 1229,
@@ -52,7 +88,7 @@ export default {
             '/assets/properties/house2.png',
             '/assets/properties/house3.png'
           ],
-          daysOn: '10 days on Houzeo',
+          daysOn: '06 days on Houzeo',
           tag: 'House For Sale',
           views: '2.5k',
           price: '$2,349,000',
@@ -66,15 +102,15 @@ export default {
         },
         {
           images: [
-            '/assets/properties/house1.png',
             '/assets/properties/house2.png',
+            '/assets/properties/house1.png',
             '/assets/properties/house3.png'
           ],
           daysOn: '10 days on Houzeo',
-          tag: 'House For Sale',
-          views: '2.5k',
-          price: '$2,349,000',
-          beds: 4,
+          tag: 'Condo For Sale',
+          views: '3.0k',
+          price: '$3,209,000',
+          beds: 9,
           baths: 3,
           sqft: 1229,
           street: '2856 Meadow Park Ave,',
@@ -84,14 +120,14 @@ export default {
         },
         {
           images: [
-            '/assets/properties/house1.png',
+            '/assets/properties/house3.png',
             '/assets/properties/house2.png',
-            '/assets/properties/house3.png'
+            '/assets/properties/house1.png'
           ],
           daysOn: '10 days on Houzeo',
           tag: 'House For Sale',
           views: '2.5k',
-          price: '$2,349,000',
+          price: '$4,349,000',
           beds: 4,
           baths: 3,
           sqft: 1229,
@@ -100,43 +136,6 @@ export default {
           agency: 'Nashville (Real Tracs Mid) MLS-TN',
           liked: false
         },
-        {
-          images: [
-            '/assets/properties/house1.png',
-            '/assets/properties/house2.png',
-            '/assets/properties/house3.png'
-          ],
-          daysOn: '10 days on Houzeo',
-          tag: 'House For Sale',
-          views: '2.5k',
-          price: '$2,349,000',
-          beds: 4,
-          baths: 3,
-          sqft: 1229,
-          street: '2856 Meadow Park Ave,',
-          city: 'Henderson, NV 89052',
-          agency: 'Nashville (Real Tracs Mid) MLS-TN',
-          liked: false
-        },
-        {
-          images: [
-            '/assets/properties/house1.png',
-            '/assets/properties/house2.png',
-            '/assets/properties/house3.png'
-          ],
-          daysOn: '10 days on Houzeo',
-          tag: 'House For Sale',
-          views: '2.5k',
-          price: '$2,349,000',
-          beds: 4,
-          baths: 3,
-          sqft: 1229,
-          street: '2856 Meadow Park Ave,',
-          city: 'Henderson, NV 89052',
-          agency: 'Nashville (Real Tracs Mid) MLS-TN',
-          liked: false
-        },
-        
       ]
     };
   }
