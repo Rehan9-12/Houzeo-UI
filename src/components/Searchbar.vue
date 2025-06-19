@@ -6,12 +6,12 @@
         <div class="icons">
           <button class="clear-btn">&times;</button>
           <button class="search-btn">
-            <img src="/src/assets/icons/searchIcon.svg" alt="Search" />
+            <img src="/assets/icons/searchIcon.svg" alt="Search" />
           </button>
         </div>
       </div>
       <button class="setting-btn">
-        <img src="/src/assets/icons/setting.svg" alt="Settings" />
+        <img src="/assets/icons/setting.svg" alt="Settings" />
       </button>
     </div>
 

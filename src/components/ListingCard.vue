@@ -26,7 +26,7 @@
 
       <span class="days">{{ listing.daysOn }}</span>
       <button class="like-btn">
-        <img src="/src/assets/icons/heart.svg" alt="" />
+        <img src="/assets/icons/heart.svg" alt="" />
       </button>
     </div>
 

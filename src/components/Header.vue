@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <img
-      src="@/assets/logo.webp"
+      src="/assets/logo.webp"
       alt="Houzeo Logo"
       class="logo fade-in-up"
     />
